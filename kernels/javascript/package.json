@@ -1,0 +1,29 @@
+{
+  "name": "enigma-js",
+  "version": "0.1.0",
+  "description": "Javascript Kernel for Enigma Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnethicalDiscord/Enigma.git"
+  },
+  "keywords": [
+    "discord",
+    "jupyter",
+    "python"
+  ],
+  "author": "Unethical Discord",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UnethicalDiscord/Enigma/issues"
+  },
+  "homepage": "https://github.com/UnethicalDiscord/Enigma#readme",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "ijavascript": "^5.0.20",
+    "node-opus": "^0.2.7"
+  }
+}

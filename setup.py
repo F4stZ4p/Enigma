@@ -4,10 +4,11 @@
 Setup file for enigma.
 """
 
+import sys
+
 import codecs
 import os
 import re
-import sys
 from setuptools import setup
 
 path_here = os.path.abspath(os.path.dirname(__file__))
